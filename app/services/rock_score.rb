@@ -1,0 +1,3 @@
+class RockScore
+
+end
